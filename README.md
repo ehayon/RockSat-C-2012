@@ -3,4 +3,5 @@
 To Install:
 
 > Copy the contents of `libraries` to your Arduino `libraries` directory
-> Remember to restart the Arduino IDE!
+
+> ###Remember to restart the Arduino IDE!
